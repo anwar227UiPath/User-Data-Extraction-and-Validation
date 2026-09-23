@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Name Generator",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BoTsywQjM0aE7lYVDJ_G1g",
+  "Reference": "HxT5IGakVUC04J9CFMwiaA/BoTsywQjM0aE7lYVDJ_G1g",
+  "ParentRef": "HxT5IGakVUC04J9CFMwiaA/_SXsZdZGrUOwF-doP22wJA",
+  "Created": "2026-09-23T13:16:47.1132587Z",
+  "Updated": "2026-09-23T13:16:47.1132587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

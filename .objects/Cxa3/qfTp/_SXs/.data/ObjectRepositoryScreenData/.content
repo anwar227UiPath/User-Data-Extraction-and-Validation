@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Je1ZrS4paEqW15G-Um6cxw" Reference="HxT5IGakVUC04J9CFMwiaA/_SXsZdZGrUOwF-doP22wJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="TIHtrMvxQk-O7GrxFnxA2Q" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACTklEQVRIS+2WT2/SYBzHd1i0LX2khadgNjl5XzKj4QWYzQ0ielkW3Wvw4FGnewNTZK/AeDXed1IDjD8uEgTKoGn5V0DawhRNlqIdaoATbddSJhfjk8+lyfPrJ8+fb37P3DGgZsqc6rsDKAlQAg5bFhFwKA3LjQQdQImAqhFuxu2hXZ6cy5OdgJxrMJlxe2qEW9Q41AIeJcsrvm/RWDeR7MYnJpH8fhArr/p5lDQStAHFIURx435fUX5bHL8Upbi5xSFE21jAIPbcVIK+otCbWwxiNxdkN+7NVpCbSmBpi3QEjXA09egJvb1zpEdhe6f0+Glx6QZvc5gc8lmC/G5wfx47vHgppUcasecRe9XmFIyvqYGg9Dz0ESV4HLYA9VlDC1DCMKEmQTMQsM9efLgAyhhZxxz8OHXM0cQcIg5Vu29NwL18FV66/mnZm9OQv+Zll71Vl0fA4fQrUE5OZFHsidIPLZLU4+vcqr+mibEFgfE4lWXaf7ekuaN/U5Dx32FnKsieU9BXFEWWdTmVez+/dgvrgQp6DgH3+s3bW/7keuDQpyblC9Brt5krV5u4c/pDLuwG383bMsPEqiggBIcSDdwpaf5uQVAOhtIo0QSDvqhLRy/GFgSVYCiDEoKm3pT/AlP+PQGLEEd6r4pacI9GCVFTb4paUEVJ5uba8ftwO3IgRaJSJNqORL/E4pUHD1mM1I2SMWOCzqD5QdbuSsPFBFyIDYnDhRRcLJKXG2f0LGPGBKNFCAA2cFgb4BxRHz5vdVuuKWrBiFHuVWinTcIfQc9VeCbvXDMAAAAASUVORK5CYII=" Reference="HxT5IGakVUC04J9CFMwiaA/_SXsZdZGrUOwF-doP22wJA" Selector="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" Url="[Config1(&quot;App_Url&quot;).ToString]" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="0db1cac46c80e8cf52518d673a01ee04.jpg" xmlns="">0db1cac46c80e8cf52518d673a01ee04.jpg</imageRef>
+    </TargetApp>
+    <NInteractionMode x:Key="InteractionMode">DebuggerApi</NInteractionMode>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
